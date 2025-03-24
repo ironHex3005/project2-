@@ -1,3 +1,3 @@
 # New Project
 
-This project was
+This project was.
